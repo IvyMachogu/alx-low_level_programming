@@ -2,7 +2,7 @@
 /**
  * main - prints "with proper grammer, but the outcome is
  * a piece of art,"
- * Retturm: always 0.
+ * Returm: always 0.
  */
 int main(void)
 {
