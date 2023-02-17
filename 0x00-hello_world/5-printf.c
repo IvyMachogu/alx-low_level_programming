@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include<stdio.h>
  
  /**
-  * main -prints 
-  * return 0
+  *main -prints 
+  *return 0
   */
 
  int main(void)
