@@ -1,11 +1,11 @@
-#include <stdio.h>
-
+#include<stdio.h>
 /**
-*main-Entry
-*Return:Always 0 
-*/
+ * main - prints "programming is like building a multilingual
+ * puzzle, followed by a newline."
+ * Return 0 .
+ */
 int main(void)
 {
-puts(" \ " Programming is like building a multilingual puzzle ");
-	return (0);
+	puts("\""Programming is like building a multilingual puzzle");
+	retur (0);
 }
