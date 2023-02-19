@@ -2,7 +2,7 @@
 #include<time.h>
 #include<stdlib.h>
 /**
- * main -Prints a text according number
+ * main - Prints a text according number
  * return: Always  (Success)
  *
  */
@@ -23,7 +23,7 @@ int main(void)
 	}
 	else if (lastd < 6 && lastd != 0)
 	{
-		printf("Last digit of %d is and %d and is less than 6 and not o\n", n, lastd);
+		printf("Last digit of %d is and %d and is less than 6 and not 0\n", n, lastd);
 	}
 	return (0);
 }
